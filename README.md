@@ -1,6 +1,5 @@
 ## Hi there 👋 👩🏻‍💻🐥
 
-I am a data engineer and I am carving out my place in a male-dominated world 💃🏻
 <!--
 **Evusma/Evusma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
